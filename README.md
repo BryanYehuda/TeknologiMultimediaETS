@@ -1,2 +1,3 @@
 # TeknologiMultimediaETS
-Repository ini dibuat untuk memenuhi Penugasan ETS dari Mata Kuliah Teknologi Multimedia ITS
+Repository ini dibuat untuk memenuhi Penugasan ETS dari Mata Kuliah Teknologi Multimedia ITS   
+Laporan dari pembuatan tugas ini bisa dilihat pada PDF yang tersedia di Repository
