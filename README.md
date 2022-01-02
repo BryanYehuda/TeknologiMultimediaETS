@@ -1,4 +1,4 @@
-# TeknologiMultimediaETS
+# Teknologi Multimedia ETS
 
 ## English
 This repository was created to fulfill the ETS Assignment of the ITS Multimedia Technology Course    
